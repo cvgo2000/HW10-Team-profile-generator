@@ -1,0 +1,24 @@
+{
+  "name": "hw10-team-profile-generator",
+  "version": "1.0.0",
+  "description": "Generate team profiles with basic information via command line prompts.",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cvgo2000/HW10-Team-profile-generator.git"
+  },
+  "keywords": [
+    "team",
+    "profile",
+    "generator"
+  ],
+  "author": "Christian Go",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cvgo2000/HW10-Team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/cvgo2000/HW10-Team-profile-generator#readme"
+}
