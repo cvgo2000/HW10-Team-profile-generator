@@ -39,6 +39,7 @@ The MIT License grants permission, free of charge, to any person obtaining a cop
 ## Questions
 
 Should you have any questions regarding this project please open an issue or contact the creator at the below email address.
+
 [Link to GitHub Repository for this project] - https://github.com/cvgo2000/HW10-Team-profile-generator
 [Link to the deployed app for this project] - https://cvgo2000.github.io/HW10-Team-profile-generator/]
 [Email] - cvgo2000@gmail.com
