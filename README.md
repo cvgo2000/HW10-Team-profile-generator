@@ -18,7 +18,8 @@ For this homework, we were tasked to build a team generator command line applica
 
 ## Installation
 
-Clone included files to your local repository then use the command line "npm i" to install all file dependencies locally.
+Clone included files to your local repository then use the command line "npm i" to install all file dependencies locally. Once installed, run the
+base file node app.js.
 
 ## Usage
 
